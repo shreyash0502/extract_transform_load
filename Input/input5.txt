@@ -1,0 +1,1 @@
+in c, #line is used as a preprocessor to re-set the line number in the code, which takes a paRaMeTerrr as line number. Here is an example for the same.
